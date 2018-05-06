@@ -3,6 +3,8 @@ Readme-test
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-Left text                  |  right text
-
+```                        |```
+some code:                 |    indented code:
+   a += 1                  |        boo!
+```                        |```
 Boo!
