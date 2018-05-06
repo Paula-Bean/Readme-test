@@ -1,10 +1,18 @@
 # Readme-test
 Readme-test
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-```                        |```
-some code:                 |    indented code:
-   a += 1                  |        boo!
-```                        |```
-Boo!
+<table><tr>
+   <td><pre>
+def abc():
+    a += 1
+    if b:
+        b += 1
+   </pre></td>
+   <td><pre>
+import uvw
+uvw.a = 'yes'
+for i in uvw.items:
+    print(i)
+   </pre></td>
+</tr></table>
+   
